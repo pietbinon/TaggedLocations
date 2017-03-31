@@ -1,4 +1,6 @@
 
+//Edited by Pierre Binon
+
 /*
      File: APLEventsTableViewController.h
  Abstract: The table view controller responsible for displaying the list of events, supporting additional functionality:
